@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Java backend junior developer from Italy</h3>
 
 - 🔭 I’m currently working on [Java team Dealer](https://github.com/develhope/Java22-Team3-Dealer)
-
-- 🌱 I’m currently learning **Spring**
+- 
+- 🌱 I’m currently learning **Javascript, jQuery, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jamming1](https://github.com/Jamming1)
 
